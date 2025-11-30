@@ -1,0 +1,5 @@
+{
+  "name": "CodeProbe Analyzer",
+  "description": "A modern React frontend for visualizing static code analysis, security scanning, and complexity metrics from a Flask backend.",
+  "requestFramePermissions": []
+}
